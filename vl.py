@@ -1,1 +1,2 @@
 print("minhdz")
+print("minhxz")
